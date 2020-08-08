@@ -11,6 +11,6 @@ https://godtear.herokuapp.com/<br/>
 ![img2](https://raw.githubusercontent.com/GrzesiekKozdroj/pGodtear/master/shot1.png)
 ![img3](https://raw.githubusercontent.com/GrzesiekKozdroj/pGodtear/master/shot2.png)
 ![img1](https://raw.githubusercontent.com/GrzesiekKozdroj/pGodtear/master/shot3.png)
-![img2](https://raw.githubusercontent.com/GrzesiekKozdroj/pGodtear/master/shot4.png)
+![img2](https://raw.githubusercontent.com/GrzesiekKozdroj/pGodtear/master/shot4.jpg)
 ![img3](https://raw.githubusercontent.com/GrzesiekKozdroj/pGodtear/master/shot5.png)
 ![img3](https://raw.githubusercontent.com/GrzesiekKozdroj/pGodtear/master/shot6.png)
